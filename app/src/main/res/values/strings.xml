@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+    <string name="hotel_name">Nama Hotel</string>
+    <string name="description">Deskripsi</string>
+    <string name="hotel_price">Harga Hotel</string>
+</resources>
